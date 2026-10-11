@@ -1,0 +1,21 @@
+course_id,course_name,mandatory,duration_hrs
+C01,Code of Conduct,True,4
+C02,Data Privacy,True,8
+C03,Anti-Money Laundering,True,4
+C04,Information Security,True,1
+C05,Fraud Awareness,True,8
+C06,Responsible AI,True,4
+C07,Customer Empathy,False,2
+C08,Excel for Analysts,False,4
+C09,Power BI Basics,False,8
+C10,Leadership Essentials,False,8
+C11,Complaint Handling,False,8
+C12,Prompt Engineering 101,False,2
+C13,Time Management,False,8
+C14,Effective Communication,False,2
+C15,Risk Mindset,False,4
+C16,Coaching Skills,False,4
+C17,Agile Basics,False,1
+C18,SQL Fundamentals,False,2
+C19,Presentation Skills,False,1
+C20,Inclusion at Work,False,1
